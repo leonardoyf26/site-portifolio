@@ -31,7 +31,7 @@ Nesse curso voce vai dominar tudo de **git** e **github**  _do zero ao profissio
 >Segunda area destacada
 
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 ```
 npm start
 ```
@@ -56,3 +56,4 @@ Propriedade | Descrição
 name | Informar  nome do usuario
 size | Definir o tamanho do campo
 background | Cor de fundo da area em HEX
+
